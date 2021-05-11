@@ -74,7 +74,7 @@ each is slightly smaller than the last.
 Sometimes, when it comes to formatting, we want to add some emphasis to a small
 part of our text, typically by _italicizing_ a word or a phrase.  In this case,
 we can use `<em>`, for emphasis. In addition, for times when we want to **bold
-text**, we have `<b>`:
+text**, we have `<strong>`:
 
 ```html
 <p>
